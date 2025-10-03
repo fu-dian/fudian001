@@ -1,1 +1,0 @@
-import{_ as o,c as n,a as r,r as t,o as c}from"./index-DBmJdF1p.js";const s={};function a(_,i){const e=t("router-view");return c(),n("div",null,[r(e)])}const d=o(s,[["render",a]]);export{d as default};
