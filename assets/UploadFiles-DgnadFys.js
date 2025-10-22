@@ -1,0 +1,1 @@
+import{_ as o}from"./HeaderNav-1VUx-164.js";import{d as e,r as _,x as s,o as t,_ as a}from"./index-DE1Rxk2E.js";import"./base-DFCvKCGV.js";import"./el-popper-BVxyVJmf.js";const p=e({__name:"UploadFiles",setup(r){return _(""),(n,c)=>(t(),s(o))}}),d=a(p,[["__scopeId","data-v-b4342f0e"]]);export{d as default};
