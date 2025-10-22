@@ -1,4 +1,4 @@
-import{ah as qP}from"./index-DE1Rxk2E.js";const B$=qP("data",{state:()=>({name:[""],label:[""],data1:[],data2:[],value:""}),actions:{upname(r){this.name=r},updata1(r){this.data1=r},updata2(r){this.data2=r},uplable(r){this.label=r},upvalue(r){this.value=r}}});/*! *****************************************************************************
+import{ah as qP}from"./index-VS2PECJp.js";const B$=qP("data",{state:()=>({name:[""],label:[""],data1:[],data2:[],value:""}),actions:{upname(r){this.name=r},updata1(r){this.data1=r},updata2(r){this.data2=r},uplable(r){this.label=r},upvalue(r){this.value=r}}});/*! *****************************************************************************
 Copyright (c) Microsoft Corporation.
 
 Permission to use, copy, modify, and/or distribute this software for any
